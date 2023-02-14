@@ -73,6 +73,6 @@ In JS,
 
 ### UML Diagram
 
-<img width="314" alt="quotemicroservice" src="https://user-images.githubusercontent.com/96801858/218666964-76b85353-150b-4b24-852f-544e15ac1121.png">
+<img width="800" alt="quotemicroservice" src="https://user-images.githubusercontent.com/96801858/218666964-76b85353-150b-4b24-852f-544e15ac1121.png">
 
 
