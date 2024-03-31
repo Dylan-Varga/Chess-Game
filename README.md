@@ -1,5 +1,6 @@
 # Chess-Game
-Chess Game
+
+Chess Game with OpenGL Graphics (unfinished)
 
 Author: Dylan Varga
 
